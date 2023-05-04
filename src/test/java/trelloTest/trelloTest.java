@@ -1,3 +1,5 @@
+package trelloTest;
+
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
@@ -25,7 +27,6 @@ public class trelloTest {
     public void trelloAPItest (){
         // Trello üzerinde bir board oluşturunuz.
         createBoardMethod();
-        //
         createCardMethedo();
         createListMethod();
 

@@ -1,0 +1,24 @@
+2023-05-04 19:43:12,588 INFO  [Utils] [TestNG] Running:
+  C:\Users\Monster\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+ 
+2023-05-04 19:43:12,672 INFO  [log] ********Start Testinium_Beyman_Test Case******** 
+2023-05-04 19:43:12,679 INFO  [log] test.xlsx isimli dosya kontrol ediliyor. Kontrol : 2 
+2023-05-04 19:43:12,680 INFO  [log] test.xlsx isimli dosya var. 
+2023-05-04 19:43:14,582 INFO  [log] [[Ljava.lang.String;@6650813a] içerigi dolduruldu.. 
+2023-05-04 19:43:23,281 INFO  [log] https://www.beymen.com/ openUrl passed 
+2023-05-04 19:43:24,563 INFO  [log] Goruntulenen  popUpa tiklandi 
+2023-05-04 19:43:30,385 INFO  [log] şort yazdirildi 
+2023-05-04 19:43:30,995 INFO  [log] gömlek yazdirilip, aratildi 
+2023-05-04 19:43:30,995 INFO  [log] 9 
+2023-05-04 19:43:36,508 INFO  [log] Dosya başarıyla oluşturuldu  
+2023-05-04 19:43:36,508 INFO  [log] Ürün adı : Comfort Fit Lacivert Parça Boya Gömlek ve fiyat 1.799,00 TLyazıldı. 
+2023-05-04 19:43:46,730 INFO  [log] Ürün bedeni secildi  
+2023-05-04 19:43:56,051 ERROR [log] Ürün fiyatı : 1.799,00 TL Sepetteki ürün fiyatı : 1.799,00 TL 
+2023-05-04 19:43:56,215 INFO  [log] 2 adet secildi 
+2023-05-04 19:43:56,239 INFO  [log] basketSize = 2 
+2023-05-04 19:43:56,239 INFO  [log] Ürün güncelleme adimi gecildi 
+2023-05-04 19:43:58,330 INFO  [log] Sepetteki ürün silindi  
+2023-05-04 19:43:58,920 INFO  [log]  Sepetin bos oldugu teyit edildi  
+2023-05-04 19:43:59,249 INFO  [log] Sürec basarili bir sekilde sonlandirildi. browser kapatildi... 
+2023-05-04 19:44:53,156 INFO  [log] Create List testi basladi 
+2023-05-04 19:44:55,415 INFO  [log] Create List testi basarili 

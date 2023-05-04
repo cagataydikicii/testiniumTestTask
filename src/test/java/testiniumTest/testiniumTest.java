@@ -1,14 +1,11 @@
 package testiniumTest;
-import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
-import utiliy.utiliyMethods;
 import data.excelOperations;
 import data.getDataTestinium;
 import actions.beymenActions;
 import java.util.ArrayList;
 import java.util.List;
 import utiliy.log;
-import projectObject.objectRepository.mainPageObjectRepository;
 import projectObject.objectRepository.productPageObjectRepository;
 
 public class testiniumTest {
